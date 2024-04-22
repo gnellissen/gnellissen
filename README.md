@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gnellissen
 - 👀 I’m interested in ecology and statistics
-- 🌱 I’m currently learning AdvancedR
+- 🌱 I’m currently studying the book AdvancedR
 - 📫 How to reach me g.nellissen@outlook.com
 
 <!---
